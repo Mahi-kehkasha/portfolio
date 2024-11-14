@@ -42,10 +42,10 @@ const Home = () => {
                   : 'mt-3 text-base text-white sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0'
               }
             >
-              "I am a recent graduate and a passionate Front-End / Full-Stack
+              I am a recent graduate and a passionate Front-End / Full-Stack
               Developer, currently seeking new opportunities. I have hands-on
               experience in web development, and a strong foundation in
-              technologies like HTML, CSS, JavaScript, React.js, and more."
+              technologies like HTML, CSS, JavaScript, React.js, and more.
             </p>
             <div className="flex md:justify-start ">
               {contactLinks.map((el) => (
